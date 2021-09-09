@@ -1,0 +1,33 @@
+* {
+    font-style: italic;
+}
+
+p {
+    color: blue;
+}
+
+h3 {
+    color: rgb(8, 238, 161);
+}
+
+#resultado {
+    background-color: pink;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    float: left;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+a {
+    color: inherit;
+}
